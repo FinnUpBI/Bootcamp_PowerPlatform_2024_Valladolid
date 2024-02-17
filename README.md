@@ -16,5 +16,5 @@ Utilizamos un dataset de [Kaggle](https://www.kaggle.com/) que se llama *2015 Fl
 
 # ¿Quieres conocer más aobre FinnUp?
 - [Sitio web](https://www.finnup.es/)
-- [LinkedIn](https://www.linkedin.com/company/finnup-bi/)
-- [e-mail](info@finnup.es)
+- [LinkedIn](https://www.linkedin.com/company/finnup-bi/){:target="_blank"}
+- e-mail:info@finnup.es
