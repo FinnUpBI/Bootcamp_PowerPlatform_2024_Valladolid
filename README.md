@@ -12,6 +12,7 @@ Utilizamos un dataset de [Kaggle](https://www.kaggle.com/) que se llama *2015 Fl
 - Crear una cuenta de Microsoft 365 Developer: [Programa para desarrolladores: Microsoft 365](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 - Power Apps Plan Comunidad: [Plan de la comunidad de Power Apps](https://powerapps.microsoft.com/es-es/developerplan/)
 - ¿Cómo documentar los pasos de transformación de Power Query? [Enlace](https://www.matiaszayas.com/post/naming-power-query-steps)
+- Dar formato al código M. [Enlace](https://www.powerqueryformatter.com/)
 
 # ¿Quieres conocer más aobre FinnUp?
 - [Sitio web](https://www.finnup.es/)
