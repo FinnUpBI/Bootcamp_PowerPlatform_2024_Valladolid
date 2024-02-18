@@ -5,7 +5,7 @@ En este repositorio explicaremos el caso de uso, dejaremos acceso acceso a los d
 
 # Dataset 
 
-Utilizamos un dataset de [Kaggle](https://www.kaggle.com/) que se llama *2015 Flight Delays and Cancellations*. [Aquí puede descargar al dataset original](https://www.kaggle.com/datasets/usdot/flight-delays?ref=hackernoon.com&select=flights.csv)
+Utilizamos un dataset de [Kaggle](https://www.kaggle.com/) que se llama *2015 Flight Delays and Cancellations*. [Aquí puede descargar el dataset original](https://www.kaggle.com/datasets/usdot/flight-delays?ref=hackernoon.com&select=flights.csv)
 
 
 # Documentación adicional
@@ -17,7 +17,7 @@ Utilizamos un dataset de [Kaggle](https://www.kaggle.com/) que se llama *2015 Fl
 - Más información sobre [entidades calculadas](https://learn.microsoft.com/es-es/power-query/dataflows/computed-tables).
 - [Tabla calendario de Antonio Jurado](https://www.cursospowerbi.es/wp-content/uploads/2022/07/DimCalendario-M.txt)
 
-# ¿Quieres conocer más aobre FinnUp?
+# ¿Quieres conocer más sobre FinnUp?
 - [Sitio web](https://www.finnup.es/)
 - [LinkedIn](https://www.linkedin.com/company/finnup-bi/)
 - e-mail:info@finnup.es
